@@ -39,6 +39,11 @@ rm model.tar.gz
 ### 3. Use SAFE
 Please refer to this notebook [test.ipynb](test.ipynb)
 
+Or try out this script [test.py](test.py) to get all the function embeddings of the input binary.
+
+```bash
+python test.py <binary_path>
+```
 
 ## Acknowledgements
 * SAFE implementation in tensorflow (https://github.com/gadiluna/SAFE) 
